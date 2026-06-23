@@ -2,7 +2,7 @@
   "Descriptor": {
     "UId": "7a222e85-7038-45a4-842a-ba2cc276acfc",
     "Name": "UsrYachtStatus_Values",
-    "ModifiedOnUtc": "\/Date(1782131430000)\/",
+    "ModifiedOnUtc": "\/Date(1782208390000)\/",
     "InstallType": 0,
     "Schema": {
       "UId": "7a222e85-7038-45a4-842a-ba2cc276acfc",
@@ -43,6 +43,13 @@
         "IsKey": false,
         "ColumnName": "CreatedOn",
         "DataTypeValueUId": "d21e9ef4-c064-4012-b286-fa1a8171da44"
+      },
+      {
+        "ColumnUId": "f0e44eaf-7a5a-205d-e32e-cefa9d834b49",
+        "IsForceUpdate": true,
+        "IsKey": false,
+        "ColumnName": "UsrColor",
+        "DataTypeValueUId": "dafb71f9-ee9f-4e0b-a4d7-37aa15987155"
       }
     ]
   }

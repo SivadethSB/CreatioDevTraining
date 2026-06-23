@@ -18,7 +18,7 @@ define("UsrYachts_ListPage", /**SCHEMA_DEPS*/[]/**SCHEMA_DEPS*/, function/**SCHE
 				"name": "FolderTree",
 				"values": {
 					"layoutConfig": {
-						"width": 80.125
+						"width": 285.125
 					},
 					"rootSchemaName": "UsrYachts"
 				}
@@ -40,42 +40,42 @@ define("UsrYachts_ListPage", /**SCHEMA_DEPS*/[]/**SCHEMA_DEPS*/, function/**SCHE
 							"code": "PDS_UsrName",
 							"caption": "#ResourceString(PDS_UsrName)#",
 							"dataValueType": 1,
-							"width": 109
+							"width": 108
 						},
 						{
 							"id": "bad47d89-14fd-32f8-296b-328acd50c15f",
 							"code": "PDS_UsrPrice",
 							"caption": "#ResourceString(PDS_UsrPrice)#",
 							"dataValueType": 32,
-							"width": 95
+							"width": 180
 						},
 						{
 							"id": "c2bce33b-ec6f-45fa-4167-e14c38419da7",
 							"code": "PDS_UsrDriveType",
 							"caption": "#ResourceString(PDS_UsrDriveType)#",
 							"dataValueType": 10,
-							"width": 95
+							"width": 130
 						},
 						{
 							"id": "2855c2b4-2c8b-acaa-569a-7f493a42577d",
 							"code": "PDS_UsrStatus",
 							"caption": "#ResourceString(PDS_UsrStatus)#",
 							"dataValueType": 10,
-							"width": 99
+							"width": 110
 						},
 						{
 							"id": "9ed4e834-defc-2085-161f-fa58a1c98f0d",
 							"code": "PDS_UsrPassengersCount",
 							"caption": "#ResourceString(PDS_UsrPassengersCount)#",
 							"dataValueType": 4,
-							"width": 110
+							"width": 175
 						},
 						{
 							"id": "c20c3917-da40-8bbe-b343-825c3ade0e87",
 							"code": "PDS_CreatedOn",
 							"caption": "#ResourceString(PDS_CreatedOn)#",
 							"dataValueType": 7,
-							"width": 121
+							"width": 129
 						}
 					]
 				}
