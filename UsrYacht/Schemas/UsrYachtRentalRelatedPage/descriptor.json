@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "026c0571-1be0-4b4a-8034-093490778919",
+    "Name": "UsrYachtRentalRelatedPage",
+    "ModifiedOnUtc": "\/Date(1782462914000)\/",
+    "ManagerName": "AddonSchemaManager",
+    "Caption": "Yacht rental (Page settings)",
+    "DependsOn": []
+  }
+}
